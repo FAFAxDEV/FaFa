@@ -1,6 +1,6 @@
 ### Pretty empty here...
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1050068996763959407)](https://discord.com/users/1050068996763959407)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1013864805431513148)](https://discord.com/users/1013864805431513148)
 
 Well, you're still reading. Here's a quick rundown of me...
 
