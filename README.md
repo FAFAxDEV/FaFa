@@ -5,7 +5,7 @@
 Well, you're still reading. Here's a quick rundown of me...
 
 ```javascript
-mezmer420 = {
+FaFa = {
 	RealName: require("./know/me/irl"),
 	Birthday: "2005-08-17",
 	Gender: "Male",
